@@ -1,1 +1,2 @@
-Simple Web Calculator with JS
+<p align="center">Tugas</p>
+<p align="center">Kalkulator simpel pake js.</p>
